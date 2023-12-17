@@ -61,6 +61,12 @@ When analyzing how poverty rate affects the diabetes rate across Georgia, we det
 
 If food access is not addressed across the counties with a higher poverty rate, the overall health of these counties may see decline. While the analysis shows an increased rate of diabetes, it is not farfetched to assume other health related variables may be experiencing the same trend.
 
+## Conclusion 
+Based on the data we recovered, we failed to reject the null hypothesis. It does appear that as poverty rates increase, access to healthy food decreases. Additionally, it appears that as poverty rates increase, diabetes rates also increase.
+Clarke County is a potential outlier in our data, because although it is among the highest poverty rate counties in Georgia, the population has similar food access to counties with relatively low poverty rates. This makes sense, because it is a college town, with a lot of the economy being supported by students.
+Potential limitations in our dataset include a lack of comprehensive poverty rates, limited health information, and no data to represent actual consumer purchasing trends. 
+
+
 ## Acknowledgments
 >>>>>>> 23f6c47370c251e3a9e9064849faba043348d8be
 This project was completed as part of [Data Analytics and Visualization Bootcamp/Analysis of Food Access and Poverty Rates in GA].
